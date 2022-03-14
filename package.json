@@ -1,0 +1,27 @@
+{
+  "name": "welcome-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dintonharold87/Greeting-React-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dintonharold87/Greeting-React-App/issues"
+  },
+  "homepage": "https://github.com/dintonharold87/Greeting-React-App#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
